@@ -1,6 +1,6 @@
 #include "Game.h"
 
-int wmain(int argc, char* argv[]) {
+int main(int argc, char* argv[]) {
 
     // 20
 
